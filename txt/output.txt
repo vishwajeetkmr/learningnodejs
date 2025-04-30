@@ -1,0 +1,2 @@
+This is what we know about avocado: The AVOCADO is popular in vegetarian cuisine..
+Created on function now() { [native code] }
